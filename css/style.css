@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+overflow: hidden;
+}
+.Logo{
+width: 20%;
+background-color: teal;
+height: 100px;
+float: left;
+}
+.Logo h1{
+color: white;
+text-align: center;
+padding: 20px;
+}
+.Banner{
+    width: 80%;
+    background-color: turquoise ;
+height: 100px;
+float: right;
+}
+.Banner h1{
+color: white;
+text-align: center;
+padding: 20px;
+}
+nav{
+background-color: thistle;
+}
+.Bar h1{
+color: white;
+text-align: center;
+padding: 10px;
+font: 40px;
+}
+.content{
+overflow: hidden;
+}
+.left{
+background-color: yellowgreen;
+height: 400px; 
+width: 20%;
+float: left;
+}
+.left h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    padding: 80px;
+}
+.center{
+background-color: khaki;
+height: 400px;
+width: 60%;
+float: left;
+}
+.center h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 30px;
+    font-size: 50px;
+}
+.right{
+background-color: purple;
+height: 400px;
+width: 20%;
+float: left;
+}
+.right h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    padding: 80px;
+}
+.top{
+background-color: moccasin;
+height: 30%;
+}
+.middle{
+background-color: olive;
+height: 40%;
+overflow: hidden;
+}
+.bottom{
+background-color: chocolate;
+height: 30%;
+}
+.middle-left{
+width: 50%;
+height: 100%;
+background-color: crimson;
+float: left;
+}
+.middle-left h1{
+    color: whitesmoke;
+    text-align: center;
+}
+.middle-right{
+width: 50%;
+height: 100%;
+background-color: cyan;
+float: right;
+
+}
+.middle-right h1{
+    color: whitesmoke;
+    text-align: center;
+}
+.bottom h1{
+    color: whitesmoke;
+    text-align: center;
+}
+footer{
+    background-color: tomato;
+    height: 100px;
+}
+footer h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 70px;
+}
